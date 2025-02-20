@@ -1,2 +1,2 @@
 # kafka test
-docker.io/apache/kafka
+docker.io/apache/kafka:latest
