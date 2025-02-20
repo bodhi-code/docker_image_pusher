@@ -1,2 +1,4 @@
 # kafka test
 docker.io/apache/kafka:latest
+# kafka ui
+provectuslabs/kafka-ui:latest
