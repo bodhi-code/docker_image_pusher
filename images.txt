@@ -1,1 +1,2 @@
-docker.io/apache/kafka:latest
+# kafka
+docker.io/apache/kafka
