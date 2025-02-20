@@ -1,2 +1,2 @@
-# kafka
+# kafka test
 docker.io/apache/kafka
