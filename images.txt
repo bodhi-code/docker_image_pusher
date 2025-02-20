@@ -2,3 +2,5 @@
 docker.io/apache/kafka:latest
 # kafka ui
 provectuslabs/kafka-ui:latest
+# etcd
+docker.io/bitnami/etcd:latest
